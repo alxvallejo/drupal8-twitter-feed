@@ -14,6 +14,8 @@ $ composer require abraham/twitteroauth
 
 * Create an application in your [twitter developer console](https://apps.twitter.com/). Create a new app. If you want to use this for local testing, use 'http://127.0.0.1' for the URL.
 
-* Then generate the Access Token and copy and paste the information into the Configuration page at /admin/config/twitter_pull/twittersettings in your Drupal site.
+* Generate the Access Token for your Twitter app.
 
-* Enable the Twitter Pull module and navigate to /admin/structure/block. Select **Place block** in a region and search for Tweets block.
+* Enable the Twitter Pull module and copy and paste the information into the Configuration page at /admin/config/twitter_pull/twittersettings
+
+* Navigate to /admin/structure/block. Select **Place block** in a region and search for Tweets block.
