@@ -1,0 +1,5 @@
+name: Twitter pull
+type: module
+description: Pulls twitter tweets and display them in a feed
+core: 8.x
+package: Other
