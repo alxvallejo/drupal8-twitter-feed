@@ -1,0 +1,3 @@
+administer twitter_pull:
+  title: 'Administer Twitter pull settings'
+  restrict access: true

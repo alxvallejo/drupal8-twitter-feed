@@ -20,5 +20,5 @@ twitter_pull.twitter_settings_form:
     _form: '\Drupal\twitter_pull\Form\TwitterSettingsForm'
     _title: 'TwitterSettingsForm'
   requirements:
-    _permission: 'access administration pages'
+    _permission: 'administer twitter_pull'
 
